@@ -1,6 +1,6 @@
 package go_hello_world
 
-func SayHello() string {
+func SayHelloWorld() string {
 	return "Hello, World!"
 }
 
